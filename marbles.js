@@ -2,7 +2,7 @@
 
 (() => {
   const lang = ["камень", "ножницы", "бумага"];
-  const evenOrOdd = ["четный", "нечетный"];
+  const evenOrOdd = ["четное", "нечетное"];
 
   const getRandomIntInclusive = (min, max) => {
     min = Math.ceil(min);
